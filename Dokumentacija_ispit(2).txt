@@ -1,0 +1,11 @@
+-konvertor
+Kada je program pokrenut na ekranu se pokazuje prozorcic sa 3 taba (celsius-farenheit, cm-inch, km-mile), 2 polja za unos brojeva i 2 dugmeta.
+U polja za unos mogu se uneti samo brojevi. Ukoliko nije uneto nista u polja program ce shvatati kao da je uneta nula. Klikom na dugme sa leve strane vrsi se konverzija iz celsius u farenheit i broj stepeni iz gornjeg polja se konvertuje u farenheit i ispisuju u donje polje.
+Klikom na dugme s desne strane broj stepeni iz donjeg polja se pretvara u celziuse i ispisuje se u polje iznad.
+Kada se izabere drugi tab otvara se strana sa identicnim dizajnom ali je sada tip konverzije iz cm u inch. Istim principom se klikom na dugme sa leve strane vrsi konverzija iz cm u inch a klikom na dugme sa desne strane konverzija iz inch u cm.
+Klikom na dugme sa leve strane se uzima broj centimetara iz polja iznad i pretvara se u broj incha i ispisuje u polje ispod.
+Klikom na dugme sa desne strane se uzima broj inch-a iz polja ispod i konvertuje se i ispisuje u polje iznad.
+
+Kada se izabere treci tab otvara se strana sa identicnim dizajnom ali je sada tip konverzije iz km u milje. Istim principom se klikom na dugme sa leve strane vrsi konverzija iz km u milju a klikom na dugme sa desne strane konverzija iz milje u km.
+Klikom na dugme sa leve strane se uzima broj kilometara iz polja iznad i pretvara se u broj milja i ispisuje u polje ispod.
+Klikom na dugme sa desne strane se uzima broj milja iz polja ispod i konvertuje se i ispisuje u polje iznad.
