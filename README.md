@@ -1,3 +1,3 @@
 # Naslov
-obican tekst
 ## Podnaslov
+## Podnaslov 2
